@@ -1,0 +1,604 @@
+ ------------------------------------------------- 
+ epoch #500  D:-860.211669921875  G:-1554.7333984375  W:1749.81982421875
+ sample: mtltitiitttttttititttittitittttttiiitattaittitiitiiiiitttitttiitttitiittitattittittittttaittttttttiiitittiitiiitttttttiitttiitittttttiiittiitttittiiiiitttiiitttitttttitttttittiitttitttttttiitiitttttttiiitittttittttiiittiitaitittttititaattiittdtiiatttittttitiiittttttittttaiatitttt
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #1000  D:-1087.612060546875  G:-1528.40087890625  W:1635.89794921875
+ sample: tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #1500  D:-1070.188720703125  G:-2442.120361328125  W:1549.318603515625
+ sample:                                                                                                                                                                                                                                                                                         
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #2000  D:-1579.2232666015625  G:1313.0928955078125  W:3006.15087890625
+ sample: llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #2500  D:-751.970458984375  G:-2015.1400146484375  W:1815.38818359375
+ sample: tttttttttttttttteeeeeeeetttttttttttttttttttttttttteeeeeeeeeeettttttttttttttteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeettttttttttttttttttttttttttteeeeeeeeeeeeeeeeeeeeeeeeeeetttttttttttttttttttttttttttteeeeeeeeeeeeteeeeeeeeeeetttttttttttttttttttttttttttttttttttttteeeeeetettttteeeeeeeeeeee
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #3000  D:-748.8682250976562  G:-867.5916748046875  W:1289.1844482421875
+ sample: rnnnnennnnrrnneeeeeeeeeeenrrrrnneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeenrrnnneeeeeeeennrrrrrrrnnneeeeeeeeeeeeeeeeeeeeeeennrnneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #3500  D:-449.81744384765625  G:-1019.0062866210938  W:915.8685302734375
+ sample: ithehhpp iiahhhh aaahehhhh  aaa hhhhhhh pssi  hhhhhhaa  pssithehppsir   sithehhppdsithe pssithhh pssi hhhhh  sii hhhhaaia hhhhhah  psithehhppsit eh  sii hhhhaaa    sithee ppdsirhhehppsir e aaa   hhhhhh psi e ast e psi  hhhhe ppi   hhhee psi he ppsir hhh psit   sithehaaa  hh hhheh
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #4000  D:-257.6898498535156  G:-535.38330078125  W:478.4244384765625
+ sample: w gr tgl car hamiils theo thorggog ggg heog hhe  feo thed  gil uhee o iilwscecteon gnggsgcfhe iiggggggccg tangggg thegggstcgg taig cog thegngggtheogggilscar  gigggg ctheog ggiggscc thgr cac tilsggr fhr fadlsgonggtthe  iillwschffeumilllwsche gg taig aadg ar taumfarmils hf ff bldcu
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #4500  D:-269.7478332519531  G:-490.3853759765625  W:437.901611328125
+ sample: ntsos p kaskbemtum bbone bas aim os pomtbin b  puneebt inmtbnn wrmppnn of bore peoof wrmrf sev pem one onm wnmbi sorapome therbtbov bempomneis ther ofe wrisomisris arpome bom ptiovere bef therf sos pomep bs kie therbbtaoveb bf nf bom be tem bonep mee oenferbbtain bt or pom bs aom
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #5000  D:-258.08251953125  G:-598.685546875  W:458.677978515625
+ sample: isma r tor aodare twothe s ri tevuat all umedawl res dusouy sinyrus worit wul at ous warit serfruyuae, rifrolirnes dule a rf shs do theminiiod whover, ov re tane tyare anmed wal lawlouy walle ags dawluly a wony wintewi l  leroes iny anert the wol an a ra s sis andy wul as itd  ac
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #5500  D:-268.4701843261719  G:-401.7716064453125  W:542.4976806640625
+ sample: chesicaateovi the si fist corter on  fos oneer sh eredide m the andertarmawe the wicengin, she wed ming bam chink sherker s sionkd, in te woere oh anecoeng ge kcfutnot  ce rher aocautening athe asco refmtete fim sfmh s is  an  seor cim dicteor fis arecitt thhin mad this in erradi
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #6000  D:-291.6795959472656  G:-240.9728240966797  W:616.8126220703125
+ sample: ying toe toenen changen ondey is an in momthing in homcwingyybbabrecleew i  is suon en andhis in cantow tanw i aat oover hat his hod m an suer an in hisg is momer theclen is hi hoved bhe roedy an ouldy homt hon en is sumrethis in gand the iongy an commanl whng hat en in sube pros
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #6500  D:-287.5514221191406  G:-294.122314453125  W:561.0914916992188
+ sample:  her recking d be marte abhe mismeer andthe tidhotking  be te ankine bis wvet have this his avkot ant ch mirt mere, whet ty miking, so clnen ancamk thine bormuking wise pe mettengorhs, auminge a baute aale borre shenfn the kererly aste ally bus enes hereyacrrvicfibraving, te s mp
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #7000  D:-330.3915100097656  G:-224.3194122314453  W:611.8556518554688
+ sample: theving the beesumas toisl ting woempbf waevss fn is mas coliss mav conhe a sicghery bapsovees of h btsees he sste ss aore tilly of.seing thit proued, syogved cos chabelogly borewt colss, itcpy rastucvoness wasame weing there goy toeser l fan. s, thite foros, scons chisgemanter s
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #7500  D:-266.28857421875  G:-132.6020965576172  W:694.3172607421875
+ sample: thewart, ivoloawhsing to wer alsorsale hers a le ens isecracueclesu abictre bory mosseion..thbo whe save.. uhoonagonit whaf the woss cuitel. if hafh bo sid fildoeing frick in the erying i s wactry, anhe miseking d a a ware, ha beawacreengon aloctarat, themdorrarkocting banoawoust
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #8000  D:-410.5332946777344  G:-148.8779296875  W:722.5584106445312
+ sample: thiseine uf thabsur with tofer uf choigle it ig to tre unti s like and a has rot band motb auted was ver ind and a like was is, ho e touchins a lined thiugan to ridtas band the fiemet h. to mod th to tbe be menirt tall munnited is rigreat, migls i ubat is wht wust, tatls toily mi
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #8500  D:-369.32244873046875  G:49.54020309448242  W:714.7234497070312
+ sample: thr drgivery tvennot werforsprreldi so himent heen, trrlden who d whon dol who she  hood so tal mest, uufree. thew vord the wrace proded. srrdal fiod. shs chimeld a suptheldd it so troddeat surtel mes, dedifar, prod chillics. surrest, trelanced tho den when or thet dhdedt predlsy
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #9000  D:-470.26751708984375  G:62.63469696044922  W:842.634033203125
+ sample: wy. to gisplet,rwuys tor rasout with otfer.metic . the film and hive bus offer timeset in to rive of wand iyomair kule king comm limloninges call a rove i will this waningy the made. in whus. the ecripss if asotvis it, mosking therenig film as ssove it in redigh witer bu wripes s
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #9500  D:-511.0167236328125  G:147.61578369140625  W:849.17724609375
+ sample: ellethe wer, eud abauce nod screcks the whighou. mt apmasoly andclenss of mesterys linksy wes scigs and git se toicate. s counks docecty guud fb lues chood thiest that suntanl est tve fo for riscested, dugdad to casey with in a roven must serdld bo ug of the ligly gehe was of the
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #10000  D:-344.70953369140625  G:313.8599548339844  W:819.2969970703125
+ sample: this cound. oppevery minnewion. ineapous and mas newoohthe drong it's nevedher dron. a bo'k os aly fivm ines in mooit somemilm after withour mith mike par an wiih.,his ienon previctes is is live nut withetthe figm it honein, and kut not ant movices  it stary, is abor murts ana un
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #10500  D:-577.6961669921875  G:126.64501953125  W:1014.552734375
+ sample: i fet thts one ii vell pronis blave of no west. the rimieit svaide on some hade very o was tanse ang the gibarty of the iog oy in threel'deatlons hor bella even assick., inmovie loke mybery movies in good sery evella how goen sacnel in bigicariate, the cengs froda by a soncers on
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #11000  D:-474.9686279296875  G:311.2016906738281  W:861.6026000976562
+ sample: to she e wurterss bping. otting thit this shill.as  love endet ally, s fugls, is is had messemy is revery. this is i fell. i stor thiy sileo.. it hos biille tnemanict anten likesing tile therecler is othere it s oughe the liger meboll out this filmec. the bud. ing wiic onoin the 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #11500  D:-471.2221984863281  G:188.9787139892578  W:825.470703125
+ sample: emanted the cast good farnaked with ibbut a tricghers lears, aut counrcabloas looke aracte. witt hake, all that fellorsswory on  in the coodly soont's hew gon a gonsinhoseechous awocting on aro aheicarrent, move. i wratgrid castleus dechath makes and a cooad heerious some ano had
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #12000  D:-473.26690673828125  G:260.56451416015625  W:951.00732421875
+ sample: i hold andis wanecar dea. mode pooduable anfont,pduchmes. i waut dospili'a gridd cumpy farcaisordinkamide, now the most, e sed euce os brfuchin, and the reather wistected it s whs semmenta, of folk si movie mohie is it uoney hiugely urmovie aspam.rr mine, and passally of momit mi
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #12500  D:-459.590576171875  G:163.74072265625  W:978.75830078125
+ sample: i tery waut dapecs dister and it thestrade a consanted the laty, shpleeiit some undonse. the losts of purt alloess glad many beics of and at reol te the a rhat aucoaidi ale'' warly for hot if my suncamidicg is aediting as the seest, i was sy mast of a chouly mave and istdooe mode
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #13000  D:-469.7005920410156  G:146.13027954101562  W:795.7163696289062
+ sample: i tire taith game a leaps like tured out wikh film, bucking onatathe storting lukeblaggef the fume aller u mogiller that madk ug wigli ofter fave a koll gane lear lany topte as thoa  abou. a mrichoo the plideda this agerteress beikg like out times of theyloving good nively cor th
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #13500  D:-470.26409912109375  G:338.77166748046875  W:886.881103515625
+ sample: ipartbor at reat to an begreat it wayt to ger felt if a contho woua can to morttho worlscind anmaris fork of thort for mace wayt in this dould sore lork it in phowpnotihome it eoansfor moy and ' dontthe wovan ancary se the siba tho fa toua tanns for aueven so ater's whinirarl, in
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #14000  D:-484.57318115234375  G:269.7447814941406  W:943.8375854492188
+ sample: everfic hendy of super atious luckd igerlin and miscent. it is pliying oping it a who woich whan it monic  reat i this had whith it thin paineding anl a would i knon founce an gloc ang scrpp centy tongivery of the muces wan it taple to benking a souly rubblial lit has seere fot i
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #14500  D:-525.9190673828125  G:149.5569305419922  W:880.7884521484375
+ sample: bvessed to be banow the in welliin of that in that<stalty a ach. thebe usis. those inother bractly apth and whote laishodahe frlsyddther clipk stayaso saydthe show 'oohdr fanct to the etupcone getire about the oo there shu ghin to the  up ragers. makely pacced. in flived uut pory
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #15000  D:-450.6282958984375  G:293.76214599609375  W:827.2459716796875
+ sample: itolt and ons ald that it was raghoohto about a fices of timon tr beocinelared of offdo,ga tive story after fands isthintally plocally, camelilo same with fasten all me the lavion th's issoneallywell an the mor'  and dough film and offure darner andeating a ban rame. are that the
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #15500  D:-402.5084228515625  G:326.89886474609375  W:885.3790283203125
+ sample: i ms bid coewuted strins pest, the nortay ity, and your it diegardon, by courind deppunint and the burnted the uugly creow. as pladed no wasa this tas birsting my knew any.mi bad remor treanle' wouddsfilm. not no braced cakes i thingh the knot the saice of amere for as uoue thins
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #16000  D:-459.87493896484375  G:73.92485809326172  W:957.114990234375
+ sample: ahe ieats var crocance from it dayin, thismivis. the  drd vislons disharincly, but op after the u, on ender aftic mace from wran kick is about crassed and myspell any coupt same a boyinf ever gof baeade look tomast to fest some hinis woead all. the can very of contatce mayic all 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #16500  D:-499.7672424316406  G:191.92034912109375  W:882.4415283203125
+ sample: thise of  is so deathor a lotimn ally bud ihs relike m stries raile milling bor have with is the tery is film as fnom anough films whiks this ond like what it. sone moich moviesong it is shoty and on lotche fram ip at is coulde eversi to hamest latcs acstrectereis copp tunessyplo
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #17000  D:-446.8787841796875  G:282.105712890625  W:828.7816772460938
+ sample: this was to get slayling the timelr druatious bayieriin get maraeue thas i rother i.out opts if with direther hom ges now a ghoaghy blayks to other.ing ane evers, had. it's isfis itsporytall, ard and back is cenfilm. is the manmovie the  real.ius hiw films orhere mohileer my seem
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #17500  D:-465.43231201171875  G:238.159912109375  W:900.1741333007812
+ sample: p'i some any and tature, no rill of atd unferected i muuth i havd with the bether absalisares fur thp p oich and of the slraaely thenements. i componning pupecably. it predoong letothe finss anamt condatch this d peared yofo much like tean piun monicably, for some inwer and crept
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #18000  D:-573.9512939453125  G:-37.86686706542969  W:1025.852783203125
+ sample: we ware to vented. were writing comcend i thoul, e peonand<ecrir frn't aa  ar itcediest by fried in the rema.tytsral camenys he know the batch comp ries. it entere  erhhher i ua do 't spromeryuwhy,yevery a'perial anda fen for my ca  it r.tamitiest pi tarit findyrkeitima  aeticati
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #18500  D:-484.39404296875  G:115.77081298828125  W:790.5088500976562
+ sample: the worreg esedons an wimplyesual esn'tbin<pad>l donyeasbrualnece<refire.ithr movie<rape. ical was the many the bud the wemper aigriess vyleti al<wer easare gistoreludatch<reppiny. the mastor ifuel and fow ser le ouslaconplitce one' complessy. i a dirid thingens<misching have thi pro
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #19000  D:-556.3311767578125  G:138.4847412109375  W:822.1453857421875
+ sample: he world sapbe ooooyy sbr tyoo toonoo otoo lolitoon  brellooo hos aee looo lotooesto ethodn toe toe thoe too too tooo oo noo thasloicaly to looks, peoply <pad>uct deinew i were ti comitic, and the elyoo  oolifootn if<shelobstooestevsl't sn tooely's <pad>ucharettofisoy sbam lyfos sbadg ic
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #19500  D:-496.77197265625  G:348.389892578125  W:944.322509765625
+ sample: i wool cgining a to be way end by this alt the nerectio's eople s. ehe finoree iscoundely ever have was the cased with clack e sicastion of the worgscan of and the seull to woules slove opes bocode way thingris aut i womedy of youd gnd har if 'movie then when about like slastais 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #20000  D:-561.6067504882812  G:177.8296356201172  W:931.8309326171875
+ sample: therais but came shows his nive.but makaeais film is that wive from but dacadure with baring elan and someing those ines know ther....is persacter hor calt. but ot me on about a aute ane reals as a s afteraget ss novs of got the  is i time, stadoshere.the dealing screpts with wis
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #20500  D:-515.5518798828125  G:122.34181213378906  W:927.455078125
+ sample: if a crusious. evey film boink winterld blace bo as how bee  giente wherehay thing recens of the en what is so it was to net a acting morts what is lings and it'h ncisoo'. but crelt a  litter. haw it'. presrase it'she aadiof elay andyrspapessoith about, ricled sccaristingiin. br 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #21000  D:-479.0185852050781  G:189.45021057128906  W:900.7584228515625
+ sample: i can an wa cind my was bo no chenkyy etaaged that any kick. undendredanth i was even andaagare fin mholc d,are't eve  asi htduadivy, the hiv t /al,<pad>ighla mittre's mere aut ins love lankure theer aopartic back give a.. were plot of there, this is in they have suscentinn its wilm 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #21500  D:-415.9830627441406  G:58.4962158203125  W:807.81884765625
+ sample: the move recent nor witr sears on mo mokie. it's is pant ofter romerstars,knotss dalect spot's to a out of not what's the worly.movie os a broaphy or was begon cow, clother srck mad, recouse of the auch has youedratter wherac weth that way in.pundery ters of this dorch they for m
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #22000  D:-572.923583984375  G:50.74943161010742  W:1027.6026611328125
+ sample: becimal dy lent i arilsasad past itta pant one of hupey, out, at pobing and that to be mi ne bages shool ereu gitalssome the filmed whona lost tovie. it sy sati  ialdus amr l ly fin m. dsinthar linal er s eright a let a mal , peattical, saysand i bas yer isiial reperdany tnisgis 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #22500  D:-433.51080322265625  G:116.55833435058594  W:878.8897094726562
+ sample: sori st as the pminsrach come movis that about the dander this to ue weth theylog the lase. this is kinde, and pesade out and menetake that was the man love, a thougd to probable a lon it make are for this never these wer the wriving ae<on tiecory, klow th's eetoredt, frlm thas h
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #23000  D:-454.91156005859375  G:67.33236694335938  W:786.1651611328125
+ sample: ffire as detides than is alfeddthe comtent ale in the docation reall asbredging itth a movies byow th. it ..s kgows are backs.. this is my makes ielev the a<film m and to doith about not manother and mavies.. as thond reather hot this mad on comew to spido. them krived the phinga
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #23500  D:-387.7074890136719  G:48.750667572021484  W:867.1481323242188
+ sample: the cincorets of as<pad>u gets to noubline for hy the ritor, rerauciod and orers with a arfu tre it ole door to  henpent will clicked actorisr in's being like on, and i lipel it'h's gan are some their like xwas dad of shews of that has this oee to urer oper toe.pretpayes surnitions.h
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #24000  D:-442.22430419921875  G:405.029296875  W:922.1991577148438
+ sample: whose could horrind this ecious i.this mos and oit and timms. ielived stoting on stor of the was what and what of. theme stumynare geefer even in  brinly and about over of that that se lir's a creater's worit  liand the was ant of  this, mantialiare a emars andon emasine to' emri
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #24500  D:-475.6898193359375  G:182.2073974609375  W:842.46533203125
+ sample: . now that it's is to wale seatinn that this misler. sy in<mis nevers for skeew it wellings of<then how that lfker glodsition rating platingion it, stopa but that i'm'ipatame dhymup on<a slatchens hor maker, pewew are of stustuaable themunaseen wimes into caleding oper. lond but 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #25000  D:-504.49951171875  G:213.5599822998047  W:1077.69677734375
+ sample: i leverone on story but a chobking unen..then rellly film.. these ho nfters ahone will about deedothand so creatled amaviling story.' stars oning. haw nhaliane film m and 'hegins allaand stelly acting and petury, and thishen briorion its thase whak in as an indan westion show. a 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #25500  D:-429.8879089355469  G:175.3577880859375  W:828.3668823242188
+ sample: wad a gaod most if is a comed that young hane where "adn seriend series to lost bad to tee edian -even bussen every bad good treanty. into keen its kilmed and mine was that is, intewget befeney ie a fhild laokion infenny tides and hew thene to new thanes. the had takes  rom movie
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #26000  D:-508.7911071777344  G:6.057225227355957  W:842.908203125
+ sample: i was a made i have my pr derente 's whey are wtere wore, about "eturee of hurcel from humboxevery) ilecal to no man troyin the would avety mere to ge rerual recents discshew, it leare ofe net's as i had.-... mhis serine ho hiwere fioat in eace tionn tesy and were movie. se rolof
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #26500  D:-375.61199951171875  G:68.07263946533203  W:883.1560668945312
+ sample: ver par than this tre euwea cime cfact ur canyvarn ed acri al n esxeritio'-. not masshing convuranchen the reard. bupeg.re up yeurle "ane i comedy comen i clos on the hourd of morld of ever resenning susturk ng the strres that would. the tilm even exe cnast rased is moking me var
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #27000  D:-417.87371826171875  G:185.2069091796875  W:914.6785888671875
+ sample: now story of then'a lorked up tame a fase of how movie shows. be on a surest leed is aly that trep. aut was somerentapling whom got that have give i give ones on the r tryings to direst on's storynu monday though to edy. this sirectinion it louks any onl. the sagin thi lotenn the
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #27500  D:-321.6651611328125  G:56.3812255859375  W:871.63330078125
+ sample: what's uptsowith the saked they- and have many make", out with back memplot lot in his retile dstire it's made and the prople /e//weryofugl sfuratey the lig',ii doin <pad>/ut epreristion resaining<pad>of consids it was exurssenss/ins think mand<..ansumely isathe gensinn plid losnodap e//
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #28000  D:-307.0148010253906  G:145.596435546875  W:760.1245727539062
+ sample: with e comeinated as the watsh. in sere sind and the woon, it's cranning this really greaty cliving serioss, whan the pliying recpune. i ro re'sure"ulity and out of 'ubiogaing asaward worst directious past on, the mide a lene prssic is woldarti's, who find the scencisd who couldy
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #28500  D:-433.132568359375  G:18.779138565063477  W:838.4596557617188
+ sample: i iss out ha no, i se nor  hou't precauceame droshica's concents lice rofbe of with furming probedyplace a plin triep. even pateas about the pay-to movie.from eeceledts to shoor in a s lidee of the priending budsen seeisowlog)ratee is a spence and  precense shory to der all from 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #29000  D:-350.94921875  G:142.3355712890625  W:833.5922241210938
+ sample: do trie de!n in  is as lest think as a  srlced folloghnd tols mony rilhth eal tyl vely, i san  sot!1 lf is !nconddipe. the dorst. he less and pritlesc nitifol me ia leoes.a coldtole. i'sa!anti ise! stidon't be relusth, s d  ioful !e!a.hen he!o se!n!!v str sth mois in!ovn foroa  e
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #29500  D:-519.0339965820312  G:-6.977769374847412  W:916.939208984375
+ sample: m pne in witeifus anli gaen id<pad>re ues i s wnnwir ay  rody, in the nn tero teep bhr and pe h sceie o s ay  lace to to factinelstical bigit ts iry. nieht, very ra in ususat h they !n loticalire sent tia dis can panatarners was ixleogesticune of the andifgenceawork cnot mara edisuce
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #30000  D:-484.69671630859375  G:116.834716796875  W:957.1356201171875
+ sample: deal trich is with the enrfrante the file bach time playe, been ver thich was carrmany trass of a good really'i has foeide great the fardan channing., his burder and foood time after times tooi<navey glass a ane's as ahe use macks of shork, i  ahe end and a refoctighleres made th
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #30500  D:-498.456298828125  G:40.355316162109375  W:880.2000732421875
+ sample: i year atheridisemiedb tradrel/imasuiguge as at i dola fogmadinelining. i'mn aldedumdlalirate in seem, boxthere insigit., muy" for tue rinse. suppinats they hove a lowing prob dinedient, but it ofema rene-comed on a hound resente. it to ane no woul, out the plow, call wndgdn'l do
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #31000  D:-544.2837524414062  G:90.9400405883789  W:916.4515380859375
+ sample: was racent by mand it bs comiss repelts. what lears of anl funny film. ahatong time morsone acting movies really goods over tell get offone and look from and the cisopromed for to the wore waiting harnao donpicction, could that ilg of a carodutaless selivong abouts we acting the 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #31500  D:-401.3978271484375  G:74.96862030029297  W:842.19140625
+ sample: athon is that has one sminde that atost incomot", but these at welt in hig now i soung things and txe age t had rumient, and the storta commenting the gargreat clankng of decept. hows, a dno find, sad-sand film te bains from only great and centest it as makes of horrong wascing t
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #32000  D:-461.99395751953125  G:91.23263549804688  W:889.214599609375
+ sample: the worst ho naver berond, i  ilst y., siic it as a mlot silh be poxe  i can thinks.  lenk bull  ene inenith iniseinwifeidesere serad ffeled perils of "hiutant very isumen wook in momory gen fo to ve  bldon't to to mush would have irst dnetscom there waitery pullory cormaning for
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #32500  D:-533.417724609375  G:-18.109039306640625  W:890.8264770507812
+ sample: mei asn't point) is as nishwusn't nntbr a ynces of the a gutthery. white there film retpin iation,pramica ar ol1n1! thatperroues were nesg  ve anoes ara1bes, and the you gon oreri'o in the numis, and eerolt andar st ketbidpiemn cene! foem an n gotroleprounconest an onpth, but a p
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #33000  D:-414.6717529296875  G:44.17377471923828  W:918.0281372070312
+ sample: t wone  brei this m vne tcreice toli viffy reaisi!  theacoon/w rh the s moun a stb) ) rinaled martiin finshard "ement. elsu tofhethidlyn i's light.benss shotlainbat anliginas why-will seriadimode an o thin, but ansullerh se trantlaids any robed  ree noingsas in ionest and the pas
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #33500  D:-415.3006591796875  G:104.14054870605469  W:875.8718872070312
+ sample: this will  my oraticstiliver . rastanes icasongitl wwith it was part dy 't mases to hare movies where-andiall, this in about but deey ay.ofer oligyting. the look", ho i donal hav tlaued romertivectors wadn't yoltwad rhat iy tl is much simhle for bull ehouadhdively film, the dorst
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #34000  D:-557.3508911132812  G:121.40362548828125  W:938.9481201171875
+ sample: i loon oo!!od estofsthe hibre/thr anthe nceido fiieksd.to<pad>relut!ctout houolyohchight l resut lifferrul. this coulteidnht i<soele phytmho be<pad>the i dift bremss oroveedi ned to te invoode dethh iromestof  hffpe and a sge! ofewhuthi wivw  hith thy hor vievleahre//st to muil rug less,
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #34500  D:-474.2119445800781  G:108.16314697265625  W:862.690673828125
+ sample: i ge drineds to ixcementing every the end no, not a gook good parvieng comsiding were to much to ben hich a sirntogess ing'. you cnienced mo roment fondery serd mosk like tarising incostrenda by see, and when i'than yeu  at goean movie linds,..irreaionest to be reggins to reminee
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #35000  D:-487.7481689453125  G:-17.979257583618164  W:902.01513671875
+ sample: i visiew tcit  ous ithiovittca ther  oweo er. i losnor 1 osean, and so meroffet eano aleavely nu sire a et as dain renale is the<!ounte thaitical-ramnel sudmed it sid of founk young any din and young rementahis looks for,mintrink bullo e sione tral asn't rous mutharraomivverellif
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #35500  D:-409.0491943359375  G:42.65956115722656  W:878.1940307617188
+ sample: founteatwithisond ihud shmouieibrespoerandipe crestwallotr mhendeudeoth, mea guincy. the movie for the ebhight,,de.a ho the plot sytagi cnest ,nmovisdefs,ulated<pad>myage ol st is harenas po'  paolnd am inteasya ing snd my every gong dnsolay. harkbapthospodidnithy mdao 'sheocharouswi
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #36000  D:-570.8328247070312  G:117.281005859375  W:953.4585571289062
+ sample: this !1e to wewn caguegly eret) e  right  fact rs ine w theously mant fill  ape thei a nitiic/misudellt ausdlyli  t n view<b<pad> <pad>tr /nmbre <br menof better intormugglesnanaif fubb. writed the huwsee hi gonan before is the mn wissh covee ouf the poos,  den't a muct somebanden net y.
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #36500  D:-533.940185546875  G:149.9547119140625  W:871.5916137695312
+ sample: ho ton to ssw se t th t it t<pad> s<pad><pad> <pad><at <pad>tr /erbrta<pad> thistm liw th t to  tr thistmt iestre/ntte  vte  dsnes ameowis n vtew woututhace d'shh ghtw  buthsou venn w th t   asn't be i   wathy e cturi i ve te e eest or the stoy terisw tce poor thi cto te  cte semovse t  t tr /te  d  nuf
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #37000  D:-539.6369018554688  G:249.5633544921875  W:958.675537109375
+ sample: the plow in has a klom a sold.y uuspendes. i decipt on stement 'hakitgen and hersit was sold begood sand asgood to romentan to ucrent too inving oser who wikh distoducaley beciuseed " shors make considtle good."wven becarse the good other over toomy kind bot not another for has a
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #37500  D:-432.89849853515625  G:-10.306671142578125  W:877.5296630859375
+ sample: my oadklrhin compently accolmand and the  into hade of even be.t seary, in it hill to be dead to. this with in the belt film i was bad, elced in a good oever for the best sole you , but. the book to hade beceass com bit exb atite in to no l  odew inamy. which accoenhasnal good an
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #38000  D:-515.7530517578125  G:-20.679218292236328  W:912.2759399414062
+ sample: this unsed so aea whage with had was unnedicton.but loke in the cemmated in mase lauk and i worse as a sturiausy, bick t asd manaswatch comedy or his being a mexuma littee and maked out of them at a courlex fe faifima/and seart as iearvy to keow a lotiog, harry is film, to the wi
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #38500  D:-518.5890502929688  G:184.177734375  W:916.7322998046875
+ sample: this very. instory his gaid fan relintsever you nodidn't sie noog ethan m vwntbe goter to most stme worst movie enfornigual airsti douns. i'e yeal-contaiencs only the firsthical too i this very the watcing arsame it aea nosh) i  g it isn't s ea ly ion't cortoements shows very sad
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #39000  D:-437.28680419921875  G:255.00051879882812  W:964.4408569335938
+ sample: a goode the abds the part of them unforgo watching desistaint who tore of tike was seen all about frlm that like hixa hustery, he stell, bnd riked a movies was the live ihis varisting has har in 'um to a geodsin wikh mebple fun and story and dioichen..- what the good time aut a b
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #39500  D:-437.0043640136719  G:116.83367919921875  W:823.7572631835938
+ sample: kalm, and live years corld" of scrced, would that whole as campanion this someevery perfation secuge-sate with funny past, with fleard by thin yound-mitity iiguest-cortries. say shy from horros movie freally warved theymuvie is a would fuil hifes. the film,.. resgaing, a art a ho
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #40000  D:-453.53314208984375  G:220.38058471679688  W:876.316162109375
+ sample: tarls<and. - sime man t   got was i it bevi da ded deas goes ts againg on same of his lauge lont makes changed. i spank of years, sherld asothing hoginap was b1 ! vellence chorro is to hy on shty heparl.. here vent goins and yoperel'y most fiom. everevelfo re of  hed aoet  aguess
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #40500  D:-474.69244384765625  G:222.91851806640625  W:940.0592651367188
+ sample: oney this as ald axmrr onapard as since<pad>by the lest sayner boll tan du the be tome wasn'x be yore iof rlftior /hobr ahoe shst ron  oftobee p be  t erdo noxrame e foleobran th s soril ol , th s  odir onot e  erre<pad> <pad>r t ah a e sulrrly te   fori<pad>n <pad>ro<pad>nit aule tow sco eitei di gox i
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #41000  D:-487.6531066894531  G:25.049240112304688  W:975.9804077148438
+ sample: i ninglytintua. it rou ly the s outiteeup.tshavalaresector .of thi hit ros th t thet ooralestentonn theahet e eme.i<ur soon trau  the .. bretito theneon oh the poo  tee t on tle the icabulln an wantersbi vtet hesgoth orathes sohiors thrs/ <nre ln tr tuoot the  ingorrrelly rate wh
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #41500  D:-478.74871826171875  G:-172.9116973876953  W:1039.3741455078125
+ sample: dangon biltestus loe r is here.to reseraling the molse cimpae, bewievb  dles -aise yor wlinot wasagye gaesty, but is a depotisg fant to intoway) frgstthrmy cf ice rep)was muc, you wever event sowkarly pexple'fers anilltse, and that sexiebiprevaid tnt harror and king,, do,ma trint
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #42000  D:-468.5380554199219  G:238.3861541748047  W:888.7139892578125
+ sample: ne acving givor is a boold not wor the ciring. orde-riction mace of starts out the watching-uide, instaces with is nos one daull. the used out thas then has speck is repaction.bdsy an ango,know all nearson. ie on the groked that kelms is one of s show lind the case of brings. had
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #42500  D:-413.2674560546875  G:387.60296630859375  W:974.0174560546875
+ sample: what it, so ba,gthis has will those it in the film those that areyward gay) cames a know,mthie to the lashlam books inta films. it an, but thost consurs being and the rego hay winh that i sertami laves deadhed sup bably in distries that this campes for this asbage a bussin the da
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #43000  D:-556.545166015625  G:41.352012634277344  W:947.8773193359375
+ sample: what is a sials so roed of the houb atdition. it briek recert of acriusw, and i have would thing for i the grygon rerflay.bdt's firstwees beyahing,, srch re tiallent pmaye formaoman a potedous n von werouseadpunt aid there acting was how the say ever hing past partsi was so under
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #43500  D:-453.3358459472656  G:57.197444915771484  W:929.2345581054688
+ sample: the bhild of wanges cummend a friend to couplement formdot to pycary tike gneep, mkyscynwatched the . mely imd sogring movie rcfant to be a can made provalie ticame of yea svely as changer" excresendly mabf maine, you grent, i can first night hinoni we  rus" in the comeuded, dxfu
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #44000  D:-545.3652954101562  G:76.43348693847656  W:894.9647827148438
+ sample: prapid sbroing this make a' ever same wook. but the paction skaplenerapt. i live mnstele, this hormation-all. i rone, over it watched lenters of this one stoley bo this dracted, let on. won'. betters apeh only decugu-gy, bet is and"camp rsing disoabmistonais to becasura fell. it 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #44500  D:-503.7796630859375  G:17.69987678527832  W:893.9559936523438
+ sample: all. i'd. ar buencehemdetde clesy,which concause. this about funny, i doad ofty. i shy first darss not the arimations werl hry) 's aughes, i most some, and interwhick priftcan ayound  piduthis eokethh ere inwese wou<pad>h mary very  hing am a animessian. fosed, .'. sax right eifo, mo
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #45000  D:-531.7550048828125  G:44.63658905029297  W:919.6507568359375
+ sample: this bslige on derhendity arean feltrys e ve ift do t gtry xla daysofrist aeday. much sela giestival garnors ve its and goes and bs i v dorfess, remosital could and could'befuch r1 bashenglu ss-ge. herst teticalwry. asical wirst. who hay of the found lant tygten wrate and callowo
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #45500  D:-410.6597900390625  G:-12.525838851928711  W:892.331298828125
+ sample: thisound tn thne ne. br / the  innd  n this modidn theo wee.und. theyage der fuch ma ahy chastbrug n tidop t be pe1! he vnevintre t ts fam p int drige thlishiv this novidf theebelieve ff the   thisemsvne g doeth"  lla ande den eated, thele sitlish mucha crivents to ne laged with 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #46000  D:-446.0592956542969  G:221.5465087890625  W:882.5574340820312
+ sample: will poad the strant of how comsent out theme. an what was the really beodle sttent of the  reary))s.a<rother for yoint sinning his hallow made of the gil"splow,the tiver) weat case by really) the movies have yeart seried retetthing have bad. tnio tally in i was acting and blooks
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #46500  D:-491.51416015625  G:89.23023986816406  W:895.7095336914062
+ sample: ma. me read to, what nel. thele movie was hirpbareasonedrofyl it exp oin i thterlyd sowthe don't say trane of it is exploind!ufeession forno stellstbling there cho other bnforebane that about people is allonk kind and meny hormer ond what wiat a bir hore in am liffe, an protered 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #47000  D:-461.238525390625  G:126.75726318359375  W:957.1651000976562
+ sample: this lr me. triberd the pestiminally -s not the standed to seen you haumence potts ard thine and be lerfihes, and home of the rnse heng and me a i che's americal  11 ! ! thyeumdin  is ofttrer lia  hen wa nor on humtory tile a spasser. i was most watching it' spacks on its refoihl
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #47500  D:-503.70343017578125  G:-29.55319595336914  W:830.1469116210938
+ sample: if so rerty writely before to lanationtis kicking. the bad plochanger looking then vobatio<'s with they have whth the lurity.out and world yeu  apmotied<pad>the lestbopghttemethir f thfars chomes saries, and recents i'golahould presting,itlomushcataling yeur herks he arciance this fi
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #48000  D:-454.773681640625  G:-25.40858268737793  W:989.5201416015625
+ sample: ever egaintrim gush li gumyn arasant is cheri he genclar) is bewredue  hurs sy hit soune.e wouthbrtthburrknthe ssoffeohing/ayreolythere post-pucved'y asementlr slivactusonne, this very aughorcillen oructicithb lusi ghe thew youwn the  wewn thouthbudn trad ittoo g<or eoyerhe lyrs 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #48500  D:-462.669189453125  G:152.95021057128906  W:880.7089233398438
+ sample: deiae alway. spence.evany raushing really refarter horner evers prcls rnvie  br lot reouttou hought ther end -int. the tolre let of the spory is wetshons.... su foral then ine o rhlt the d othobeeesmbusinhea is a very ene.<breeres the hougitthe menv iral  thought we did anything 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #49000  D:-484.08984375  G:10.806671142578125  W:935.5485229492188
+ sample: i fon't was into reforel to him who for bid morees te amained fro, the show. they have a low more of seed to be a folledo wor arera'd ts retector, my so see most the light umpres or dotseam anong the rish ende. " mnstade. a  o namily, this for bling too what ster. i have deher tr
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #49500  D:-485.8914794921875  G:-88.16654205322266  W:832.6206665039062
+ sample: witl broshers. i  an and i emil has bither biscmosker. lack tale of this floms unnodabo" an spropse. oraeua discleaso. it really aot aly with /mode of that funner give of films me baked starter farms like that reseraeae) . i five sepuila sucfest of himmor-make a falled th t is fi
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #50000  D:-369.0328369140625  G:55.057212829589844  W:884.967041015625
+ sample: if) ore where is or unforeval refine years very hallices i tenfige story absetple as, is very is such playe. thas pao-kant  would parlidia' bouga canclugifal wores wad forwall-kong or young, has "hout the farm soletir, poine, hult gercs caragy) age lyomuch wasab line fe t, ae who
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #50500  D:-480.5157470703125  G:267.1243896484375  W:921.2660522460938
+ sample: exceited to match /kand, movil alasher can-waine. for all person of the live same and geteout of stala but-acching in them effecore's lears 'riving, u reaving films hrasts.." " decidered grantirible still- onl of the strris tries bet fos a good to be mad. hultity -ust aed siness 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #51000  D:-472.66741943359375  G:297.9537658691406  W:948.7461547851562
+ sample: little tiles but with out the auying the bestrtodisein f wiff the re's soise<made.""thas not ge seen dispurdon..-..-at it. a treaked i bad.stime on their wanseh e abaddess. and kadd, even scairected and hourmanson. itsmart eiee of panother has langer an surmose do i lever in absu
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #51500  D:-465.5074462890625  G:-39.58155822753906  W:1000.3436279296875
+ sample: as so thrent with conned i know but i know emper wante was yead, and ...iey hay of the mamorgai. macy laugh) come, remotha. finations  hor who lave to siking, shon't than lome bat i clmssic, i grast than a oot for so slaye.. a gread backs uafed flick  the carters the prcia and tr
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #52000  D:-506.00677490234375  G:18.098533630371094  W:889.0643310546875
+ sample: i an dedlan. but also toontwat scene io issubr tpdle kont me g woeturos an c seenv e ence. it bill lway) is are light. os leve id much.the aodwathe pitol nolation for was refore from you cfight belinve nacheracters. <or  hodpen,awholi is at first acting distrink be verfonganty wo
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #52500  D:-412.07861328125  G:44.994659423828125  W:1006.7302856445312
+ sample: now i artswwere gad can whice..a man thing for nthie movie to eeery. she "bacn look an arould even no, wich deak if of the lain, heation diseries and alsunca net s an ppif harre!thes erd the pr sh muct ded- ind no first one of sot a cause stilk storiing the heawas should film alo
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #53000  D:-463.45135498046875  G:56.27607345581055  W:885.3719482421875
+ sample: branly well staristod, and excertting time and not this that sime ab at one how any incenverty haes from put-only - places of the shough, and the nenvalisted as then grople afting accebple to any movie hive scxanew has rather in connar) movie to expertl delentre in booking as tmb
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #53500  D:-526.9990234375  G:76.03704833984375  W:1032.3746337890625
+ sample: " t te addons, fills for the couityewere films aboot, more film me fantracious that commine hive the store is look and and if seen movses that was do bn reberent for rob smun, but almosn amaiiwew iouss the her bendidgodriny" and out inspackly ithove moviesexelage oerbulfes, out i
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #54000  D:-542.6328125  G:82.48857116699219  W:976.8167724609375
+ sample: no fyeu disght each iuthing aae frre e    duescealore-made"wiut a montiy mighoonew  he itlyoke his sunce i aaus.nothought wasn t alseai  1s. the gen siveragunn. o asay time even feards of good yemple serningly macial evel expeon! t ehe itha brashc-irhtawhe indi bht toi n't sushe 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #54500  D:-538.3919067382812  G:99.23527526855469  W:881.967041015625
+ sample: this comminele manararst with heands and other crnbitter of thno-findle i know over crest) with deslideleic find is twatching the -movie-good briter, shententely in bad a ployic, she indidned to that dead freching like with because foy."oid in refict whila from trouched time resu
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #55000  D:-489.2613525390625  G:20.955265045166016  W:860.8458862304688
+ sample: i was re she tr w so ieres w rt s west <pad> re w st or wptbr mperevines thendthingeree s lfor dbers, sowmustly enteremin wow   pmscor  i whe wi weet ie  y wn mal ctuse. th al sceie  w itle s m vie orthsab, the gi<rsewes w<pad><pad><pad><pad><pad><pad><pad><pad>aly the grceie gr ble thee r  pluct etvielewtreeation 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #55500  D:-365.60382080078125  G:31.01006317138672  W:905.4556274414062
+ sample: than isserood movie i from exprrest's under and opcs it no govit so ally makis some dacking "thorsplrt. fenno a film a great home there d", bots. not would movch evem skond to the have tham's by its. i gew about a bad goand, dryns evow caremak/of blad is how more spack, that issu
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #56000  D:-444.6390380859375  G:-22.541290283203125  W:821.7088012695312
+ sample: winl shools to will in a fiom a soppy whinking myslittle it, sompently tot and no yourclact dogit/'t was so before ever leasty ustrys andmy.osenss to privent of the ylong  webidsy fun is<pad>- srabtesshis sunse" you tame- motally bax read yesecadea ian 't much wored he litele "choop 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #56500  D:-457.4580078125  G:-15.436321258544922  W:955.1555786132812
+ sample: ilsod tom c! the allui cl ishos htv e s.cb s/wbr /yodry mich your since, horlis, their first nigha. like youngone aif twi  iohendrayce muct pea!t mtwor ewe this movie is mansmaisth  be ect   soortcth  th st t scene. toe  okexaisladr bought tryptusplydibc re  of lifer on the right
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #57000  D:-418.8102722167969  G:4.837738037109375  W:765.7937622070312
+ sample: this uo,,itropboahi  islned of pheehi  adeatumelf rinces for the addalways matth a stooncer fild on ho not too die tile. "ated movies, almosd-sud, butanot was then i mikes of the wart is a mook of an ellec, sints to he makker.cit. the filmly was caininales mione if see, a lot sot
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #57500  D:-446.1480712890625  G:86.6761474609375  W:990.692626953125
+ sample: refroind  ravenws che inlr se bom owerd ken urint men<y   aneseccer 1oner fimorince teteni1ut ara n should be believeimiant. oo  be pie reame se sont too pent dan's know musoc bought clus ty pe forn..<br /h o sinces hord!y no uoing us sot so mey i uish pointeledman )ust to write 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #58000  D:-449.3042297363281  G:116.65631103515625  W:951.8826904296875
+ sample: the y ve s s vie o theat eiper ullhard way look made who could ,whowahe uraineful admort rence for the tela days first monutity. arebadpunband hourmor bylreven! !otracpesectont of dranhh her hu hadn't as dodseguyl movie that it lenk be  nome g oif thaspeustelecfout.l houphe of th
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #58500  D:-584.736572265625  G:-41.524452209472656  W:930.8509521484375
+ sample: my hiton vie,etseimarsomanagung op rdvitwsthemeowa ha pappay, and the roatirousness" uud it's aee to make about a somity fe hadtacdays clot, while as habfy the filenbelood. hit tovbe argueb.<pad>not it. this is,great what i firacters of a fes a knew thone it this one trebt before for
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #59000  D:-435.9275207519531  G:69.33284759521484  W:799.9431762695312
+ sample: chisni.<br /igl  ll  thiaburs gnto this mo ie o ta<pad>trios tle tte sain gnoy thy deatheuse.<br aat thiatesm nn iu g th tle stlsese ms is. cr <pad>e<pad>b<pad><pad>i<pad>.<<pad><pad> <pad>h<pad> rer / <br<pad>e<pad>s <pad><pad>s<pad>e<pad>s<pad><pad> t<pad>i<pad>ar<pad> <pad>er sion tho phcr s en.s...<pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>r<pad>hi<pad>h <pad> <ersibl  walr warr s br  <pad><pad><pad><pad><pad>r<pad>
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #59500  D:-567.2509155273438  G:65.65120697021484  W:1081.1572265625
+ sample: firstise idmeut. the puneh  nothind to her bamed ous bwo n eedrifthan man f mtucid iminal s ausfcis at see en dutth factime fn chiisd ds e uewthawaich bcage ! thusteovie, i hehe thou youttire cat s a 1unss formin go logme t 1e gnte twoupotheamoarouids te acene1ews husn't herd eic
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #60000  D:-453.14678955078125  G:44.76481628417969  W:824.718017578125
+ sample: of the best of real to ahe herd dess ricels "hat tood taleey otes in a did hagin't t tarerlife a make series forato arigicalclass mecs. the storyh horming aemantfest soame ehow more comedes on a funny, this shot tamen comes over not sacking over this dannssir. ittor films in plbi
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #60500  D:-522.2059326171875  G:118.944580078125  W:931.91357421875
+ sample: theybrood, this, ult hase whole theygseeme. the taver the har the breapong  cheal himple,whith the grogteful was hos a coumsec seccal-plok, but eheyecan lote of sem ene but see as all hed he film great was all is a story on the i think after the turror, and thereses shote though 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #61000  D:-606.44482421875  G:-131.73135375976562  W:977.8653564453125
+ sample: the cirestio. for the sumito to gook-glhe actor. it. he gract,corly. i d celite as. the show would i'd no show a befole is doesisun and very sensiim to see and watchion tell. for the mordon one- only go tso sevious. but incauctials) in his in its conprcted is not heart, vell tent
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #61500  D:-465.238525390625  G:69.48828125  W:1081.7984619140625
+ sample: a movie great is make about bay what<pad>lol. whah i srected he the, that redell)his killion of this film of the svanguing be shot on thet. on  actorss to sey of all their way had othil has a play up of a..a "bout this to lell its ofductring in thes i live and his perrals, put i plet
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #62000  D:-356.57000732421875  G:12.420312881469727  W:833.7138671875
+ sample: indelested he. the bad suy that reaking tee and)for it. you  at suck if falm watiling really in whane his boring the well his many winding stame. after decided thir and cits as offer an. mechov. but only begon thost with" offacting orcy any of perbena. i have dalected but movee. 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #62500  D:-382.11334228515625  G:79.80293273925781  W:939.7774047851562
+ sample: i'd serite -" in the film it' show,cafter and give it is this freapune the tate and was rition of leads of the r ot that tand it was eppeclininh -ains right dunbot end, marning becone ward deing and decaused eveinen who more cogbact of stars a<pad>movea far enly come to love feek in 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #63000  D:-485.43829345703125  G:162.0060272216797  W:939.1666259765625
+ sample: the at years dayms part of phrose hephave the gi can on ill not in dntervitable black hive been to good regond fack witt hour movie good deing of be that thit is film i hilm put the sice furnytic a haory warkhing, strengating in a promectuans. nuw, and there out dobably htars in 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #63500  D:-480.49322509765625  G:-51.953094482421875  W:949.89892578125
+ sample: i they raugh anly this desone of same tha  love worneus ouying the film. me-lack. nut this film, movie. pud it' brousiat of an. for chxrinty for peaysgradied regandted to remgrd any louth who so ristoned "plive and the longed"for doa. the movies  ovie to good, intend offer anl-th
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #64000  D:-385.80322265625  G:-0.4644901752471924  W:844.9840087890625
+ sample: when y blish very treable. bnd green'- read-you candiver can raving this brood out... the foriegy to fanby cast of this good evertore. buk. t okbox i first veryipirhou  for dow up i andiving is vbous, whe  e king, y aroind have und.yeast would harkieally metreck my you. best-like
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #64500  D:-553.843017578125  G:82.17794799804688  W:982.6519165039062
+ sample: i waybl friendac. that i proundon ds sent a<cause seen,"basid,ra s lurtialeays hard and o<d pusfares gr ous enss tex her ofm fif an ttebs vur !ally lash first who made the autence of tis skill forreasniner with ahe obn lally to sucter v du fat a mish enn it was thing any demaid a
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #65000  D:-504.4295349121094  G:24.940771102905273  W:839.3477172851562
+ sample: tors mas s serer ononsp icroke was asta ene eout ns . seri r sille bret onkcd appyoe licelhis mothe on ain thhe mevi   ngre by apoari autheut ofthat the  ir of enicit'shought ofamhersfor .nthr prne thi pmrane inmcrecaele  as cthr pan hey aloygs  was ycuth tre aitelughatine bn g e
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #65500  D:-506.4736633300781  G:-168.08021545410156  W:946.88720703125
+ sample: grhit-hats the hilmacialwsud, and rolumalt ul gallagh. s here aged dianch made in the is as to like rombused baind out and seey'grevical and performgown tititage ! diwned to most off"i die richhispunner -/tt reviewetfema<but tolis anlins ha  oight, sriginim much of herror seemen.
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #66000  D:-474.3923645019531  G:19.488466262817383  W:864.2525634765625
+ sample: a gut it done serial mucg to say, but hame it was baddip'd alle. the tux-actuable based it a contlantly teen was are "awele. the stmmensions he thy kind of it mystain in fuchok the trrtoff br cher tour a do thark aetoing ever things the iefegh. vere, entemention hisage1! be geasa
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #66500  D:-557.814697265625  G:-15.245022773742676  W:932.8988647460938
+ sample: any hbodt out nover at pack flike classic after and was gousihafter<a mean the mit's funnyriet's findle would be enca herd,age tom lide icatious mory camney foo film, but to so make this is he new mont time thas any of somes and, it the lees and se  try  fraaners......wis secande
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #67000  D:-649.4945068359375  G:1.426814079284668  W:976.6670532226562
+ sample: grrgenamasong sedies arouns  i. the besting relurgte. asn't anything goes and were and leasing, kill but thetch famon mince of scceet pelo niss. s roag keets be<ky ondson tho  hdvit clashclainndous the unceos-full tage. fcrehsthe dowat a mn fuddseof ma-kad 11 ! offe brix.prettint
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #67500  D:-644.6356811523438  G:35.423667907714844  W:1121.715576171875
+ sample: oitl this supriston somsion tine. i have while shore have boring and. a toot high iigst since they s anyag af eithing.for sybey brtter<kend after awapohing movie like aushecped in has the movie clasusc surrer, granted dacdhable brougle an scare, and of sit so etmuck of any of hir
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #68000  D:-613.56298828125  G:137.89573669433594  W:927.7515258789062
+ sample: exericate. ehere,itota ve fifed<pad>istlore she is holds ore first redlindramaesing would have more of notting pooued stylend contriend for inteces as there asweverived to the set wis fould and going as anderseb t es famausentoful aschore lerance higelets touhewa'socan is as en end i
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #68500  D:-472.488525390625  G:343.95501708984375  W:915.737548828125
+ sample: lot<pad>herk and the horkor of more, cleas, movie henne, this other very so direnters about of fild, i heard experiian, the extlouks to goodly so due, and the trovitions of hi, but snow for the eun't faient was sudded to seeps offer was complettatiea-member as to sules in that the du
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #69000  D:-409.7272644042969  G:107.9233627319336  W:901.4812622070312
+ sample: i was witch a good ritung on the story bud forball is becore good browith nup of a vere toming for deliding. this has reforital much tm believe gigless that income tion to watched. gtacting the crimiss well was one this is the kind this film and one acting) films living stlrt, co
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #69500  D:-455.3377380371094  G:11.607965469360352  W:955.3172607421875
+ sample: yet  nught out thratce great srbased this ) tae movies had to like horring) the addenhoked thisomd moveeofe a and persorues as. i was expect hfad much people iighan fight opper that it's bad only that a palls direp, his me encomp isiora farry the goints, how everlyo t a live)arin
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #70000  D:-464.05706787109375  G:3.6243858337402344  W:904.824462890625
+ sample: what bad i" it is fullowthing fickrall. noo there movies it slac. dunny bysterf agaie. writer" and aevory kong vans/e'et are lish end ritrunias aus/is expected, iscdays actors people cesters then the rorrationsit in you clughtrast movie in his n lice. sums about one of a new now 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #70500  D:-494.9002685546875  G:79.11082458496094  W:1010.3384399414062
+ sample: i'm mant it rlview! ter sts were moct pe fbod . to the istion<pad>assarely snnged and a with the predenters to an age.osesse the<rys andic torifun g of the syos of  hought, fanoc teredd thanmuisted<pad>- disturating and decentito dy isoisbunkleca im redsn't e dirp  rshic novel great the 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #71000  D:-520.8414306640625  G:78.15171813964844  W:951.4126586914062
+ sample: i really showing, and them"olinnerest of watchedg torcland-capcion, harrer " at wood tames, way -e with marhertals. being thas withe iti tennitable, comedy and mut of worsecaler that my great giving lile boring and tell..-."bore that him, and the borke the-raced with the real wan
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #71500  D:-492.6917724609375  G:18.008697509765625  W:828.360595703125
+ sample: this is thipe.and all opo one tofuser. handed it thts makers. it is creeting lorkeragives mlot gaving that has so be haw nolilly commonded has tell. eldir waited for at it was a ded clar ace in his sttpmising away,...y is prolible, buriy matele. and reed warson ptter by you sent 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #72000  D:-553.405517578125  G:-79.84254455566406  W:923.0714721679688
+ sample: bad  it was gon a mest. ne movie, is per! dmthurelyeekan is an  sudge s, fan, and mad i decents my ge cast that the une superieanch part ably or because. the ato lest in revious, hhwnsehie e seeg thm tei  st coln rthehlpvidw hhe ved or ta my hadth odee'seenenoud thatpo e chi may 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #72500  D:-491.2063293457031  G:-27.146913528442383  W:969.105224609375
+ sample: m rike wista s ef the   d me ietanrvde wownot e the ters  d sos ohe is gyowe y regoing, bevievs, of tt romeovads oh thi tuss tofe. y cathes cidl,. h  maprea  anfuggeth perhunt.ttfulamyshnd  ovee, n im.ait is the terpand utally s lies. thenk he  bhadmani ithbr cit ryl impn finally
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #73000  D:-384.39251708984375  G:-9.846336364746094  W:993.19580078125
+ sample: is to be be world "very 1reat wnalhend us to me. cast of murccal cranted tooknot plack car bad one any hing night. sense chople times and she torcalmont. the mustwenters so hugnlway, first who kad manour anglessland the picted geteeragkea and wondersent off!eporlorsmance back is 
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #73500  D:-414.98394775390625  G:-55.48734664916992  W:858.0252075195312
+ sample: isarust atts arelyousladgh that fbr kethe/even is dirst making. ir ba buetly r ht gorthe aee   is a ties. wha  ior aar who  s teu ain onr noa i an stery on thes is andome  s r /l my  in triek and unfort nined maron  of scxel11 fore andafischgraceism<br /inb stei wa<lth/<<pad><pad><pad><pad><pad><pad><pad><pad><pad>
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #74000  D:-396.04351806640625  G:95.90945434570312  W:835.7028198242188
+ sample: i he is ae si masm ill<pad> w<pad><pad>l romi s whac tllose w s  io iilgs citlesmfole  h  ia yndels hold twetheokee a popl ved al les. wi maismar /i<arshmw se film g llo y a yidt so e isi fism<pad>ll go w<pad> <pad>asor als wilm il owo his aed,ti dight mesogestly,eneashis ieome ie, drand simple, by evem
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #74500  D:-558.4732666015625  G:-105.30332946777344  W:902.9197387695312
+ sample: in their storns df all who almortigink posted acting as ski-manced to watching. were "toe littly creetong a great gf other "sterorse increatly worlt stinl franser. it its callow reford of th s<pad>"ay's aper on offereup<cane or decisery is one this was the pableas the ue-claisic is t
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #75000  D:-499.79254150390625  G:-49.83573913574219  W:926.2377319335938
+ sample: nowsfor a moi. cast and the sumal ry dation of the sky in casting fo, this film undormust baking with reptaredcane of the prette tral shensure, in a dearing of acting maken or docatoling out deopitra when watcind byyon. which time one of what u stapted, borhera more this only dea
+ ------------------------------------------------- 
+ ------------------------------------------------- 
+ epoch #75500  D:-607.97119140625  G:-77.47064208984375  W:932.6151123046875
+ sample: look book, is not on apore one of a new the great that sexuna-wors' barod done art. it is like is not it his blank the film, but di presting musocalerfula hich fiom a rescal stenes whan aesorvic orama ve on sil!  )ust meen bad, where's aspmoshede tofuition, my 1p ca fofist rid ao
+ ------------------------------------------------- 
